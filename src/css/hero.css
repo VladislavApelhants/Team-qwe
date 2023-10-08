@@ -1,3 +1,9 @@
 .hero {
   background-image: url('/img/vite-logo.png');
 }
+
+.hero .modal-button {
+  background-color: aqua;
+  color: crimson;
+  font-weight: 600;
+}
