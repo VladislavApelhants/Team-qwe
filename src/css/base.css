@@ -1,0 +1,10 @@
+body {
+  color: crimson;
+  background-color: #c4c4c4;
+}
+
+.container {
+  max-width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
