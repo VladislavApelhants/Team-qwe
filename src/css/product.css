@@ -1,0 +1,10 @@
+.product-list{
+    display: flex;
+    gap:40px;
+    justify-content: center;
+}
+
+.product-list-li{
+background-color: blueviolet;
+
+}
