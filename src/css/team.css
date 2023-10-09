@@ -1,0 +1,9 @@
+.team-list {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+.team-list-item {
+  background-color: aqua;
+}
